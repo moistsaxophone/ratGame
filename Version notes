@@ -1,0 +1,55 @@
+(ideas)
+    add jesus to game as competing shop with zach
+    #pacman explains the competition situation in scene5
+    get pacman as an item that lets you fly up to certain areas (spider boss)
+    winrar instantly beats the game
+    maybe sell malcolm to zach to get some extra money that could help u later
+    John gonna voice pacman
+    lice npc/item
+    two seprate currencies for zach and jesus shop
+    jesus ONLY accepts lice as payment
+    Jesus sells counterfeit money you can use in zach's store
+    #jesus sells used condoms
+    #jesus sells NBA 2k19 or something like that
+    "are you with the feds?"
+    player decides which shop to help (implement this in late game)
+
+
+0.0.3
+    (fixes)
+    -removed all scene variables and made acts class to organize scenes
+
+    (additions)
+    -working currency
+    -act2.scene3 has a working shop(incomplete)
+
+    (bugs)
+    -matt death sound plays every time coconut passes his dead body
+    -can make infinite iceman1 loop
+
+    (0.0.3.1)
+        (additions)
+        -added ability to donate to susej shop
+        -probably done with act2.scene3 but might add more jesus voice lines later
+
+        (bugs)
+        -susej selector is a little glitchy
+        -if player balance > 1000 the number overlaps blanace sprite
+
+0.0.2
+    (fixes)
+    -various fixes regarding music and voice not stopping when going to a new scene
+
+    (additions)
+    -added act2.scene3(incomplete)
+
+0.0.1
+    (fixes)
+    -fixed bug where malcolm is redrawn in scene2 if the player kills dk and chooses not to pick up malcolm
+
+    (additions)
+    -scene4(incomplete)
+
+    (bugs)
+    -can't go back to scene3 from scene4
+    -matt3 audio plays if the player goes back to scene 3 from scene4
